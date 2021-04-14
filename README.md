@@ -63,9 +63,12 @@ and this is a variable value : 20
 age = 20
 
 there is atypes of data :
+
 - NUMERIC DATA TYPE : to handle numbers such : 4 , 55
--STRING DATA TYPE  :its consist  letters you can add quots but you should be attentive, These can be single or double quotes, but the opening quote , its means that you must match the closing quot.
--BOOLEAN DATA TYPE :Boolean data types can have one
+
+- STRING DATA TYPE  :its consist  letters you can add quots but you should be attentive, These can be single or double quotes, but the opening quote , its means that you must match the closing quot.
+
+- BOOLEAN DATA TYPE :Boolean data types can have one
 of two values: true or false.
 
 
